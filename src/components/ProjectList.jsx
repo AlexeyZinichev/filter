@@ -1,6 +1,6 @@
 // src/components/ProjectList.jsx
 import React from 'react';
-import './ProjectList.css';
+import './../ProjectList.css';
 
 const ProjectList = ({ projects }) => (
   <div className="project-list">
