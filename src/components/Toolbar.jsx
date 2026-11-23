@@ -1,6 +1,6 @@
 // src/components/Toolbar.jsx
 import React from 'react';
-import './Toolbar.css';
+import './../Toolbar.css';
 
 const Toolbar = ({ filters, selected, onSelectFilter }) => (
   <div className="toolbar">
